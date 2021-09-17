@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JhonnyXT
-- 👀 I’m interested in .. Developer Frontend - Web with ReactJS
-- 🌱 I’m currently learning .. ReactJS and NodeJS
-- 💞️ I’m looking to collaborate on .. Developer Frontend - Web
+- 👀 I’m interested in .. Developer Frontend - Developer Backend
+- 🌱 I’m currently learning .. ReactJS, TypeScript, NodeJS, GCP
+- 💞️ I’m looking to collaborate on .. Developer Backend and Frontend
 - 📫 How to reach me .. https://jhonnyxt.github.io/portafolio-web/
 
 <!---
