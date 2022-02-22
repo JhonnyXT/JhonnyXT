@@ -1,14 +1,10 @@
-<table>
-<tr>
-  <td>
-    ## ¡Hello World👋🏽!
+<div align="center">
+  
+  ## ¡Hello World👋🏽!
   
   I am a passionate and creative software developer from Colombia 🇨🇴👨🏽‍💻
 
 I consider myself a curious person, adaptable to change and a continuous learner, so in my free time I like to study and consult useful and new technologies for my daily development and try to continue learning more to improve my skills ✨
-  </td>
-  </tr>
-</table>
 
 ## Skills
 
@@ -36,8 +32,9 @@ I consider myself a curious person, adaptable to change and a continuous learner
   <a href = "jonathanblandon1017@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br>
 <br>
-<div align="center">
-  <a href="https://github.com/JhonnyXT">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonnyXT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnyXT&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JhonnyXT&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
