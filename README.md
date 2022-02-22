@@ -1,12 +1,16 @@
-<div align="center">
-  
-  ## ¡Hello World👋🏽!
+<table>
+<tr>
+  <td>
+    ## ¡Hello World👋🏽!
   
   I am a passionate and creative software developer from Colombia 🇨🇴👨🏽‍💻
 
 I consider myself a curious person, adaptable to change and a continuous learner, so in my free time I like to study and consult useful and new technologies for my daily development and try to continue learning more to improve my skills ✨
+  </td>
+  </tr>
+</table>
 
-## Skills ⚡️👇🏽
+## Skills
 
 <div display="inline-block">
   <img align="center" alt="Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -22,7 +26,7 @@ I consider myself a curious person, adaptable to change and a continuous learner
 <br>
 <br>
 
-## If you want to communicate with me to talk about anything, here are my social networks 👥👇🏽
+## If you want to communicate with me to talk about anything, here are my social networks
  
 <div> 
   <a href="https://www.linkedin.com/in/jonathan-andres-blandon-ruiz-b68128152/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
